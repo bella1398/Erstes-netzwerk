@@ -1,0 +1,43 @@
+From ,To,weight
+Harry,Ron,3
+Ron ,Harry,3
+Harry,Albus,3
+Albus,Harry,3
+Harry ,Hermine,3
+Hermine,Harry,3
+Harry,Voldemord,1
+Voldemord,Harry,1
+Harry,Snape,2
+Snape ,Harry,2
+Harry,Draco,1
+Draco,Harry,1
+Ron,Hermine,3
+Hermine,Ron,3
+Ron,Albus,3
+Albus,Ron,3
+Ron,Voldemord,1
+Voldemord,Ron,1
+Ron,Snape,1
+Snape,Ron,1
+Ron,Draco,1
+Draco ,Ron,1
+Hermine,Albus,3
+Albus,Hermine,3
+Hermine,Voldemord,1
+Voldemord,Hermine,1
+Hermine,Snape,1
+Snape ,Hermine,1
+Hermine,Draco,1
+Draco ,Hermine,1
+Albus,Voldemord,1
+Voldemord,Albus,1
+Albus,Snape,3
+Snape,Albus,3
+Albus,Draco,1
+Draco,Albus,1
+Voldemord,Snape,2
+Snape ,Voldemord,2
+Voldemord,Draco,2
+Draco ,Voldemord,1
+Snape,Draco,2
+Draco ,Snape,2
